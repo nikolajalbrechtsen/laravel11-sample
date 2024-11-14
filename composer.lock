@@ -98,7 +98,7 @@
             "type": "library",
             "autoload": {
                 "psr-4": {
-                    "Carbon\\Doctrine\\": "src/Carbon/Doctrine/"
+                    "dev-main": "3.x-dev"
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
